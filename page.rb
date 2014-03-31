@@ -1,6 +1,6 @@
 require 'net/http'
 
-# A utility class to construct page objects, check if they have any results, and 
+# A utility class to construct emails from pages
 class Page
   attr_reader :emails
 
